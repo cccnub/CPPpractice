@@ -10,7 +10,7 @@ int main()
 	// - + * / 
 	// int = 4바이트를 차지하는 정수형
 	// char = 1바이트를 차지하는 문자형 
-	// bool = 1바이트를 차지하는 자료형 
+	// bool = 1바이트를 차지하는 논리형 
 	
 	int PlayerAtt = 2;
 	int MonsterHp = 10;

@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		단축키메모.txt = 단축키메모.txt
 		연습용메모장.txt = 연습용메모장.txt
+		연습장.txt = 연습장.txt
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004프로세스", "004프로세스\004프로세스.vcxproj", "{A993DAFE-A21B-490F-94B8-74FE230A82AA}"
@@ -42,6 +43,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015포인터활용Pointer", "015포인터활용Pointer\015포인터활용Pointer.vcxproj", "{E106C149-953F-4AEE-9D5C-FADB23D28E90}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016포인터함수활용", "016포인터함수활용\016포인터함수활용.vcxproj", "{CD203B6F-9D1F-4603-91F7-ADEC06AB8E1C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017반복문if", "017반복문if\017반복문if.vcxproj", "{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008-1연산자메모", "008-1연산자메모\008-1연산자메모.vcxproj", "{3A42B2C2-B840-4329-BFE1-62A5BD877C25}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0001메모장", "0001메모장\0001메모장.vcxproj", "{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,6 +194,30 @@ Global
 		{CD203B6F-9D1F-4603-91F7-ADEC06AB8E1C}.Release|x64.Build.0 = Release|x64
 		{CD203B6F-9D1F-4603-91F7-ADEC06AB8E1C}.Release|x86.ActiveCfg = Release|Win32
 		{CD203B6F-9D1F-4603-91F7-ADEC06AB8E1C}.Release|x86.Build.0 = Release|Win32
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Debug|x64.ActiveCfg = Debug|x64
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Debug|x64.Build.0 = Debug|x64
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Debug|x86.Build.0 = Debug|Win32
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Release|x64.ActiveCfg = Release|x64
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Release|x64.Build.0 = Release|x64
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Release|x86.ActiveCfg = Release|Win32
+		{7C3424C3-3CFC-4EAE-BCEA-B6F86C05F600}.Release|x86.Build.0 = Release|Win32
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Debug|x64.ActiveCfg = Debug|x64
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Debug|x64.Build.0 = Debug|x64
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Debug|x86.Build.0 = Debug|Win32
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Release|x64.ActiveCfg = Release|x64
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Release|x64.Build.0 = Release|x64
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Release|x86.ActiveCfg = Release|Win32
+		{3A42B2C2-B840-4329-BFE1-62A5BD877C25}.Release|x86.Build.0 = Release|Win32
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Debug|x64.ActiveCfg = Debug|x64
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Debug|x64.Build.0 = Debug|x64
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Debug|x86.Build.0 = Debug|Win32
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Release|x64.ActiveCfg = Release|x64
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Release|x64.Build.0 = Release|x64
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Release|x86.ActiveCfg = Release|Win32
+		{DBB7E235-E51D-4A8A-8FB7-F96EC7FB4843}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
